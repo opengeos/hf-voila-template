@@ -22,4 +22,4 @@ A template for deploying Voila apps on Hugging Face.
 4. Update the `sync-hf.yml` file with your repository name.
 5. Push the changes to the repository.
 6. Wait for the app to deploy.
-7. Click the "Open" button to open the app.
+7. Go to Hugging Face Spaces and click the "Open" button to open the app.
